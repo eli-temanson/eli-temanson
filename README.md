@@ -1,7 +1,8 @@
 ### Hi, I'm Eli! 👋 :man_scientist:
 
 <!-- Reach me via: -->
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"></h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 <div id="badges">
   <a href="https://www.linkedin.com/in/eli-temanson/">
