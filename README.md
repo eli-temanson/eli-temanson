@@ -1,16 +1,16 @@
-### Hi, I'm Eli! 👋 :man_scientist:
+<!-- ### Hi, I'm Eli! 👋 :man_scientist: -->
 
 <!-- Reach me via: -->
-<h3 align="left"></h3>
-<!-- <h3 align="left">Connect with me:</h3> -->
-<p align="left">
-<div id="badges">
-  <a href="https://www.linkedin.com/in/eli-temanson/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+<!-- <h3 align="left"></h3> -->
+<!-- <h3 align="left">Contact me:</h3> -->
+<!-- <p align="left"> -->
+<!-- <div id="badges"> -->
+<!--   <a href="https://www.linkedin.com/in/eli-temanson/"> -->
+<!--     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> -->
+<!--   </a> -->
+<!-- </div> -->
 
-#### Check out more at [this link!](https://eli-temanson.github.io/)
+<!-- #### Check out more at [this link!](https://eli-temanson.github.io/) -->
 
 <!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
